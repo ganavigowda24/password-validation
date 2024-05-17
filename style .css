@@ -1,0 +1,57 @@
+/* .mwney{
+    color: blue;
+    
+}
+
+#container{
+    background-color: white;
+    border: 3px solid black;
+    width: 300px;height: 200px;
+    border-radius: 5px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(230, 24, 58);
+}
+a:active{
+    color: green;
+}
+
+a:visited{
+    color: brown;
+}
+#pointer{
+    cursor: pointer;
+}
+#sanju{
+    cursor: help;
+} */
+/* body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loader{
+    height: 200px;
+    width: 200px;
+    border: 9px solid black;
+    border-radius: 50%;
+    border-right-color: red;
+    animation: spin 1s ease infinite;
+}
+@keyframes spin{
+  100%{
+    transform: rotate(360deg);
+  }
+} */
+
+.container{
+    border: 5px solid black;
+    height: 90vh;
+    display: flex;
+}
